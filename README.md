@@ -1,6 +1,6 @@
 <h1>Basic portfolio mobile/desktop</h1>
 
-In this project we explored the display grid a lot, to improve responsiveness, as well as effects with hover transition, and border..
+In this project we explored the display grid a lot, to improve responsiveness, as well as effects with hover transition, and border.
 
 <h1>Built with only pure HTML and CSS.</h1>
 
